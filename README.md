@@ -52,7 +52,7 @@
 
 ## 🌐 Portfolio Website
 Check out my full frontend portfolio with live previews of my projects:
-👉 https://walczxak.github.io/portfolio/
+👉 https://walczxak.github.io/walczxak/
 
 ---
 
