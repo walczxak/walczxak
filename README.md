@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Szymon;Fullstack+Dev+in+Progress;Code+.+Projects+.+Algorithms;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Szymon;Fullstack+Dev+in+Progress;Code+.+Projects+.+Growth;Always+Learning" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,6 +10,8 @@
 🏫 Tech school student (3rd year)  
 🧠 Learning React, Python, Flask & algorithms  
 🎯 Building real projects — no tutorial copy-paste here  
+
+> *“It’s not about being the best. It’s about being better than yesterday.”*
 
 ---
 
@@ -50,11 +52,21 @@
 
 ---
 
-## 🎯 Current Focus
+## 🔄 Currently Learning
+- Mastering HTML, CSS, and JavaScript fundamentals  
+- Slowly getting into React and Tailwind CSS  
 
-- React + frontend frameworks  
-- Backend logic & API integration  
-- Algorithmic thinking & competitive coding  
+---
+
+## 🏓 About Me
+Outside of coding, I play table tennis at an intermediate level – love the speed, precision, and focus it takes.
+
+---
+
+## ✉️ Contact
+Feel free to reach out for collabs, feedback or just to say hi 👋  
+📧 Email: [szymonwalczu@gmail.com](mailto:szymonwalczu@gmail.com)  
+💬 Discord: `walczu.`
 
 ---
 
