@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Szymon;Fullstack+Dev+in+Progress;Python+%2F+JS+%2F+React+%2F+Flask;Always+learning+something+new" alt="Typing SVG" />
+</p>
+
+---
+
 # 👋 Hey, I'm Szymon
 
 💻 Future fullstack developer  
