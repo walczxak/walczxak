@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey, I'm Szymon
 
-<!--
-**walczxak/walczxak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Future fullstack developer  
+🏫 Tech school student (3rd year)  
+🧠 Learning React, Python, Flask & algorithms  
+🎯 Focused on building real projects, not just tutorials  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- HTML / CSS / JavaScript
+- Python / Flask
+- React (learning in progress)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 My Projects
+- 🔢 [BMI Calculator](https://github.com/walczxak/bmi-calculator)
+- 🧠 [Number Guessing Game](https://github.com/walczxak/number-guessing-game)
+- 🔐 [Password Generator](https://github.com/walczxak/password-generator)
+- 🌡️ [Temperature Converter](https://github.com/walczxak/temperature-converter)
+- 📝 [Word Counter](https://github.com/walczxak/word-counter)
+- 📋 [To-Do Console](https://github.com/walczxak/todo-console)
+
+## 📈 Current Focus
+Getting better at:
+- React + frontend frameworks
+- API integration & backend logic
+- Data structures & algorithmic thinking
+
+---
+
+_Thanks for stopping by ✌️_
