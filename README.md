@@ -50,6 +50,12 @@
 
 ---
 
+## 🌐 Portfolio Website
+Check out my full frontend portfolio with live previews of my projects:
+👉 https://walczxak.github.io/portfolio/
+
+---
+
 ## 🔄 Currently Learning
 - Mastering HTML, CSS, and JavaScript fundamentals  
 - Slowly getting into React and Tailwind CSS  
