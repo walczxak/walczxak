@@ -27,4 +27,12 @@ Getting better at:
 
 ---
 
+## 📊 GitHub Stats
+![Szymon's GitHub stats](https://github-readme-stats.vercel.app/api?username=walczxak&show_icons=true&theme=radical&hide_title=true)
+
+## 🧠 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walczxak&layout=compact&theme=radical)
+
+---
+
 _Thanks for stopping by ✌️_
