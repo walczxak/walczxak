@@ -1,13 +1,109 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Szymon Walczak - Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
 </head>
 <body>
-  <h1 style="text-align:center;color:#a855f7;">✅ Portfolio działa! 🔥</h1>
-  <p style="text-align:center;">Jeśli to widzisz – GitHub Pages w końcu przyjął index.html</p>
+  <header>
+    <nav class="navbar">
+      <div class="logo">SW</div>
+      <ul class="nav-links">
+        <li><a href="#about">About</a></li>
+        <li><a href="#stack">Tech Stack</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="hero" class="visible">
+    <h1><span id="typed"></span></h1>
+    <p>Aspiring Frontend Developer</p>
+    <p>Crafting web experiences with HTML, CSS & JavaScript</p>
+    <div class="hero-buttons">
+      <a href="#projects" class="btn">View Projects</a>
+      <a href="https://github.com/walczxak" target="_blank" class="btn-outline">GitHub</a>
+    </div>
+  </section>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Hey! I'm Szymon – a student from Konin, Poland 🇵🇱. I've always been drawn to computers, and once I discovered web development, I instantly knew it was my thing.</p>
+    <p>What excites me most about frontend is the creative freedom – I love being able to decide how a page should look, feel and behave. From layout to animations, I enjoy crafting the whole experience myself.</p>
+    <p>When it comes to learning and building projects, I don’t overthink it – I just sit down and start writing code. One thing at a time, figuring things out as I go.</p>
+  </section>
+
+  <section id="stack">
+    <h2>Tech Stack</h2>
+    <p>I started my journey with basic HTML and CSS, slowly diving into JavaScript and understanding how it makes websites interactive. Right now, I'm exploring React and Tailwind CSS to level up my frontend workflow and build cleaner, more dynamic user interfaces.</p>
+    <div class="stack-icons">
+      <span>HTML5</span>
+      <span>CSS3</span>
+      <span>JavaScript</span>
+      <span>React</span>
+      <span>Tailwind</span>
+      <span>GitHub</span>
+    </div>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project-grid">
+      <div class="project-card">
+        <h3>BMI Calculator</h3>
+        <p>Simple BMI calculator in Python</p>
+        <a href="https://github.com/walczxak/bmi-calculator" target="_blank">GitHub</a>
+      </div>
+      <div class="project-card">
+        <h3>Number Guessing Game</h3>
+        <p>Console number guessing game</p>
+        <a href="https://github.com/walczxak/number-guessing-game" target="_blank">GitHub</a>
+      </div>
+      <div class="project-card">
+        <h3>Password Generator</h3>
+        <p>Secure password generator</p>
+        <a href="https://github.com/walczxak/password-generator" target="_blank">GitHub</a>
+      </div>
+      <div class="project-card">
+        <h3>Simple Calculator</h3>
+        <p>Basic calculator app</p>
+        <a href="https://github.com/walczxak/calculator" target="_blank">GitHub</a>
+        <a href="https://walczxak.github.io/calculator/" target="_blank">Live</a>
+      </div>
+      <div class="project-card">
+        <h3>Memory Game</h3>
+        <p>Flip cards to match pairs</p>
+        <a href="https://github.com/walczxak/memory-game" target="_blank">GitHub</a>
+        <a href="https://walczxak.github.io/memory-game/" target="_blank">Live</a>
+      </div>
+      <div class="project-card">
+        <h3>Weather App</h3>
+        <p>Check weather using API</p>
+        <a href="https://github.com/walczxak/weather-app" target="_blank">GitHub</a>
+        <a href="https://walczxak.github.io/weather-app/" target="_blank">Live</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Feel free to reach out 👇</p>
+    <ul>
+      <li>Email: <a href="mailto:szymonwalczu@gmail.com">szymonwalczu@gmail.com</a></li>
+      <li>Discord: walczu.</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Szymon Walczak. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
 </body>
 </html>
