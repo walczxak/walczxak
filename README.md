@@ -68,16 +68,4 @@ Feel free to reach out for collabs, feedback or just to say hi 👋
 📧 Email: [szymonwalczu@gmail.com](mailto:szymonwalczu@gmail.com)  
 💬 Discord: `walczu.`
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walczxak&show_icons=true&theme=radical&hide_title=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walczxak&layout=compact&theme=radical" />
-</p>
-
----
-
 _Thanks for stopping by ✌️_
