@@ -24,14 +24,20 @@
 
 ---
 
-## 📂 My Projects
+## 📁 My Projects
 
-- 🔢 [BMI Calculator](https://github.com/walczxak/bmi-calculator)
+- 📏 [BMI Calculator](https://github.com/walczxak/bmi-calculator)
 - 🧠 [Number Guessing Game](https://github.com/walczxak/number-guessing-game)
-- 🔐 [Password Generator](https://github.com/walczxak/password-generator)
+- 🎁 [Password Generator](https://github.com/walczxak/password-generator)
 - 🌡️ [Temperature Converter](https://github.com/walczxak/temperature-converter)
 - 📝 [Word Counter](https://github.com/walczxak/word-counter)
 - 📋 [To-Do Console](https://github.com/walczxak/todo-console)
+
+### 🌐 Live Web Projects
+
+- 🧮 [Simple Calculator](https://walczxak.github.io/calculator/)
+- 🧠 [Memory Game](https://walczxak.github.io/memory-game/)
+- 🌦️ [Weather App](https://walczxak.github.io/weather-app/)
 
 ---
 
